@@ -1,0 +1,47 @@
+{
+  "uid" : "abc84238899d8095",
+  "name" : "И пользователь нажимает кнопку \"Войти\"",
+  "title" : "И пользователь нажимает кнопку \"Войти\"",
+  "time" : {
+    "start" : 1517132610754,
+    "stop" : 1517132610754,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "266f62c06ba07c8f",
+    "name" : "Сценарий: аутентификация с валидными данными",
+    "title" : "Сценарий: аутентификация с валидными данными"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "host",
+    "value" : "21-000839"
+  }, {
+    "name" : "thread",
+    "value" : "6592@21-000839.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Сценарий: аутентификация с валидными данными"
+  } ],
+  "parameters" : [ ]
+}

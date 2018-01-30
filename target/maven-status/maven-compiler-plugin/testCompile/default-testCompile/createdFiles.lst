@@ -1,0 +1,4 @@
+stepDefinition\InitialSteps.class
+stepDefinition\AuthenticationValidData.class
+stepDefinition\HelpSteps.class
+runner\TestRunner.class

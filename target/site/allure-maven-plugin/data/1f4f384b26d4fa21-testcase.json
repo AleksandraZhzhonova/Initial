@@ -1,0 +1,47 @@
+{
+  "uid" : "1f4f384b26d4fa21",
+  "name" : "Тогда открывается страница с финансовой организацией \"10\"",
+  "title" : "Тогда открывается страница с финансовой организацией \"10\"",
+  "time" : {
+    "start" : 1517132612573,
+    "stop" : 1517132612573,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "f062a9158ea37140",
+    "name" : "Сценарий: аутентификация с валидными данными",
+    "title" : "Сценарий: аутентификация с валидными данными"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "host",
+    "value" : "21-000839"
+  }, {
+    "name" : "thread",
+    "value" : "6592@21-000839.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Сценарий: аутентификация с валидными данными"
+  } ],
+  "parameters" : [ ]
+}

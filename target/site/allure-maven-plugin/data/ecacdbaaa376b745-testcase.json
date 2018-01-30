@@ -1,0 +1,47 @@
+{
+  "uid" : "ecacdbaaa376b745",
+  "name" : "Дано открыт браузер и осуществлен переход по ссылке",
+  "title" : "Дано открыт браузер и осуществлен переход по ссылке",
+  "time" : {
+    "start" : 1517132609330,
+    "stop" : 1517132609333,
+    "duration" : 3
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "266f62c06ba07c8f",
+    "name" : "Сценарий: аутентификация с валидными данными",
+    "title" : "Сценарий: аутентификация с валидными данными"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "host",
+    "value" : "21-000839"
+  }, {
+    "name" : "thread",
+    "value" : "6592@21-000839.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Сценарий: аутентификация с валидными данными"
+  } ],
+  "parameters" : [ ]
+}

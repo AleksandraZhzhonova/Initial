@@ -1,0 +1,47 @@
+{
+  "uid" : "58d0431bd83410c5",
+  "name" : "И пользователь вводит в поле \"Пароль\" значение \"Q1w2e3r4\"",
+  "title" : "И пользователь вводит в поле \"Пароль\" значение \"Q 1w 2e 3r 4\"",
+  "time" : {
+    "start" : 1517132609613,
+    "stop" : 1517132609613,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "f062a9158ea37140",
+    "name" : "Сценарий: аутентификация с валидными данными",
+    "title" : "Сценарий: аутентификация с валидными данными"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "host",
+    "value" : "21-000839"
+  }, {
+    "name" : "thread",
+    "value" : "6592@21-000839.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Сценарий: аутентификация с валидными данными"
+  } ],
+  "parameters" : [ ]
+}
